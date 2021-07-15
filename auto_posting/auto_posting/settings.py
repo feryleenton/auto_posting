@@ -14,7 +14,7 @@ from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 import sys
-sys.path.append('/home/feryleeton/PycharmProjects/auto_posting')
+sys.path.append('/home/admin/auto_posting')
 from data import config
 
 BASE_DIR = Path(__file__).resolve().parent.parent
